@@ -619,7 +619,7 @@
 		06405DA81B8AA74700A689FF /* SwiftCharts */ = {
 			isa = PBXGroup;
 			children = (
-				7C5A5D812336707B0036B623 /* Source */,
+				7C5A5D812336707B0036B623 /* Sources */,
 				06405DA91B8AA74700A689FF /* Supporting Files */,
 			);
 			path = SwiftCharts;
@@ -776,7 +776,7 @@
 			path = Views;
 			sourceTree = "<group>";
 		};
-		7C5A5D812336707B0036B623 /* Source */ = {
+		7C5A5D812336707B0036B623 /* Sources */ = {
 			isa = PBXGroup;
 			children = (
 				06405DD51B8AA81D00A689FF /* Chart.swift */,
@@ -788,12 +788,31 @@
 				06405DD81B8AA81D00A689FF /* ChartPoint */,
 				06405DDE1B8AA81D00A689FF /* Convenience */,
 				06405DE21B8AA81D00A689FF /* Drawers */,
+				7C5A5D86233679220036B623 /* Extensions */,
 				06405DE71B8AA81D00A689FF /* Layers */,
-				EB18B5911D2ECED500491A7F /* Extensions */,
 				06405DFC1B8AA81D00A689FF /* Utils */,
 				06405DFF1B8AA81D00A689FF /* Views */,
 			);
-			path = Source;
+			path = Sources;
+			sourceTree = "<group>";
+		};
+		7C5A5D86233679220036B623 /* Extensions */ = {
+			isa = PBXGroup;
+			children = (
+				EB18B5921D2ECEF400491A7F /* Pannable.swift */,
+				EB18B5941D2ED04E00491A7F /* Zoomable.swift */,
+				EB1019991D4752930009C574 /* Int.swift */,
+				EB10199D1D4762770009C574 /* ChartAxisValueArray.swift */,
+				EB1019A91D4D465E0009C574 /* CGPoint.swift */,
+				EB66F7CD1D5498EE00168EE0 /* NSDate.swift */,
+				EBA012C91D56797D0064175C /* Optional.swift */,
+				EBA012D11D5F6D600064175C /* String.swift */,
+				EBA012D61D5F761C0064175C /* CGRect.swift */,
+				EB38397C1D6E26CA00449211 /* UIColor.swift */,
+				EBA012CF1D5F6D0D0064175C /* Array_String.swift */,
+				580AFD3B1DC2396B007AF8E6 /* Globals.swift */,
+			);
+			path = Extensions;
 			sourceTree = "<group>";
 		};
 		EB093E5D1D213EFF001157BD /* Generator */ = {
@@ -845,25 +864,6 @@
 			name = AxisLabel;
 			sourceTree = "<group>";
 		};
-		EB18B5911D2ECED500491A7F /* Extensions */ = {
-			isa = PBXGroup;
-			children = (
-				EB18B5921D2ECEF400491A7F /* Pannable.swift */,
-				EB18B5941D2ED04E00491A7F /* Zoomable.swift */,
-				EB1019991D4752930009C574 /* Int.swift */,
-				EB10199D1D4762770009C574 /* ChartAxisValueArray.swift */,
-				EB1019A91D4D465E0009C574 /* CGPoint.swift */,
-				EB66F7CD1D5498EE00168EE0 /* NSDate.swift */,
-				EBA012C91D56797D0064175C /* Optional.swift */,
-				EBA012D11D5F6D600064175C /* String.swift */,
-				EBA012D61D5F761C0064175C /* CGRect.swift */,
-				EB38397C1D6E26CA00449211 /* UIColor.swift */,
-				EBA012D81D5F76210064175C /* Array */,
-			);
-			name = Extensions;
-			path = ..;
-			sourceTree = "<group>";
-		};
 		EB38397E1D6F31E500449211 /* ViewSelector */ = {
 			isa = PBXGroup;
 			children = (
@@ -881,15 +881,6 @@
 				6A3A67C51E576A6000B5354F /* UIColor.swift */,
 			);
 			name = Extensions;
-			sourceTree = "<group>";
-		};
-		EBA012D81D5F76210064175C /* Array */ = {
-			isa = PBXGroup;
-			children = (
-				EBA012CF1D5F6D0D0064175C /* Array_String.swift */,
-				580AFD3B1DC2396B007AF8E6 /* Globals.swift */,
-			);
-			name = Array;
 			sourceTree = "<group>";
 		};
 		EBA012DD1D60AD7B0064175C /* View */ = {

@@ -1,0 +1,701 @@
+{
+  "": {
+    "swift-dependencies": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/master.swiftdeps"
+  },
+  "/Users/charlyliu/Development/SwiftCharts/SwiftCharts/Sources/Axis/ChartAxis.swift": {
+    "dependencies": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Axis/ChartAxis.d",
+    "object": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Axis/ChartAxis.swift.o",
+    "swiftmodule": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Axis/ChartAxis~partial.swiftmodule",
+    "swift-dependencies": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Axis/ChartAxis.swiftdeps"
+  },
+  "/Users/charlyliu/Development/SwiftCharts/SwiftCharts/Sources/Axis/ChartAxisGeneratorMultiplier.swift": {
+    "dependencies": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Axis/ChartAxisGeneratorMultiplier.d",
+    "object": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Axis/ChartAxisGeneratorMultiplier.swift.o",
+    "swiftmodule": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Axis/ChartAxisGeneratorMultiplier~partial.swiftmodule",
+    "swift-dependencies": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Axis/ChartAxisGeneratorMultiplier.swiftdeps"
+  },
+  "/Users/charlyliu/Development/SwiftCharts/SwiftCharts/Sources/Axis/ChartAxisLabel.swift": {
+    "dependencies": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Axis/ChartAxisLabel.d",
+    "object": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Axis/ChartAxisLabel.swift.o",
+    "swiftmodule": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Axis/ChartAxisLabel~partial.swiftmodule",
+    "swift-dependencies": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Axis/ChartAxisLabel.swiftdeps"
+  },
+  "/Users/charlyliu/Development/SwiftCharts/SwiftCharts/Sources/Axis/ChartAxisLabelGeneratorDate.swift": {
+    "dependencies": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Axis/ChartAxisLabelGeneratorDate.d",
+    "object": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Axis/ChartAxisLabelGeneratorDate.swift.o",
+    "swiftmodule": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Axis/ChartAxisLabelGeneratorDate~partial.swiftmodule",
+    "swift-dependencies": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Axis/ChartAxisLabelGeneratorDate.swiftdeps"
+  },
+  "/Users/charlyliu/Development/SwiftCharts/SwiftCharts/Sources/Axis/ChartAxisLabelsConflictSolver.swift": {
+    "dependencies": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Axis/ChartAxisLabelsConflictSolver.d",
+    "object": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Axis/ChartAxisLabelsConflictSolver.swift.o",
+    "swiftmodule": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Axis/ChartAxisLabelsConflictSolver~partial.swiftmodule",
+    "swift-dependencies": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Axis/ChartAxisLabelsConflictSolver.swiftdeps"
+  },
+  "/Users/charlyliu/Development/SwiftCharts/SwiftCharts/Sources/Axis/ChartAxisLabelsConflictSolverMoveUpDown.swift": {
+    "dependencies": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Axis/ChartAxisLabelsConflictSolverMoveUpDown.d",
+    "object": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Axis/ChartAxisLabelsConflictSolverMoveUpDown.swift.o",
+    "swiftmodule": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Axis/ChartAxisLabelsConflictSolverMoveUpDown~partial.swiftmodule",
+    "swift-dependencies": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Axis/ChartAxisLabelsConflictSolverMoveUpDown.swiftdeps"
+  },
+  "/Users/charlyliu/Development/SwiftCharts/SwiftCharts/Sources/Axis/ChartAxisLabelsGenerator.swift": {
+    "dependencies": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Axis/ChartAxisLabelsGenerator.d",
+    "object": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Axis/ChartAxisLabelsGenerator.swift.o",
+    "swiftmodule": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Axis/ChartAxisLabelsGenerator~partial.swiftmodule",
+    "swift-dependencies": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Axis/ChartAxisLabelsGenerator.swiftdeps"
+  },
+  "/Users/charlyliu/Development/SwiftCharts/SwiftCharts/Sources/Axis/ChartAxisLabelsGeneratorBase.swift": {
+    "dependencies": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Axis/ChartAxisLabelsGeneratorBase.d",
+    "object": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Axis/ChartAxisLabelsGeneratorBase.swift.o",
+    "swiftmodule": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Axis/ChartAxisLabelsGeneratorBase~partial.swiftmodule",
+    "swift-dependencies": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Axis/ChartAxisLabelsGeneratorBase.swiftdeps"
+  },
+  "/Users/charlyliu/Development/SwiftCharts/SwiftCharts/Sources/Axis/ChartAxisLabelsGeneratorBasic.swift": {
+    "dependencies": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Axis/ChartAxisLabelsGeneratorBasic.d",
+    "object": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Axis/ChartAxisLabelsGeneratorBasic.swift.o",
+    "swiftmodule": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Axis/ChartAxisLabelsGeneratorBasic~partial.swiftmodule",
+    "swift-dependencies": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Axis/ChartAxisLabelsGeneratorBasic.swiftdeps"
+  },
+  "/Users/charlyliu/Development/SwiftCharts/SwiftCharts/Sources/Axis/ChartAxisLabelsGeneratorFixed.swift": {
+    "dependencies": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Axis/ChartAxisLabelsGeneratorFixed.d",
+    "object": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Axis/ChartAxisLabelsGeneratorFixed.swift.o",
+    "swiftmodule": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Axis/ChartAxisLabelsGeneratorFixed~partial.swiftmodule",
+    "swift-dependencies": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Axis/ChartAxisLabelsGeneratorFixed.swiftdeps"
+  },
+  "/Users/charlyliu/Development/SwiftCharts/SwiftCharts/Sources/Axis/ChartAxisLabelsGeneratorFunc.swift": {
+    "dependencies": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Axis/ChartAxisLabelsGeneratorFunc.d",
+    "object": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Axis/ChartAxisLabelsGeneratorFunc.swift.o",
+    "swiftmodule": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Axis/ChartAxisLabelsGeneratorFunc~partial.swiftmodule",
+    "swift-dependencies": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Axis/ChartAxisLabelsGeneratorFunc.swiftdeps"
+  },
+  "/Users/charlyliu/Development/SwiftCharts/SwiftCharts/Sources/Axis/ChartAxisLabelsGeneratorNumber.swift": {
+    "dependencies": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Axis/ChartAxisLabelsGeneratorNumber.d",
+    "object": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Axis/ChartAxisLabelsGeneratorNumber.swift.o",
+    "swiftmodule": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Axis/ChartAxisLabelsGeneratorNumber~partial.swiftmodule",
+    "swift-dependencies": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Axis/ChartAxisLabelsGeneratorNumber.swiftdeps"
+  },
+  "/Users/charlyliu/Development/SwiftCharts/SwiftCharts/Sources/Axis/ChartAxisLabelsGeneratorNumberSuffix.swift": {
+    "dependencies": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Axis/ChartAxisLabelsGeneratorNumberSuffix.d",
+    "object": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Axis/ChartAxisLabelsGeneratorNumberSuffix.swift.o",
+    "swiftmodule": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Axis/ChartAxisLabelsGeneratorNumberSuffix~partial.swiftmodule",
+    "swift-dependencies": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Axis/ChartAxisLabelsGeneratorNumberSuffix.swiftdeps"
+  },
+  "/Users/charlyliu/Development/SwiftCharts/SwiftCharts/Sources/Axis/ChartAxisLayer.swift": {
+    "dependencies": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Axis/ChartAxisLayer.d",
+    "object": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Axis/ChartAxisLayer.swift.o",
+    "swiftmodule": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Axis/ChartAxisLayer~partial.swiftmodule",
+    "swift-dependencies": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Axis/ChartAxisLayer.swiftdeps"
+  },
+  "/Users/charlyliu/Development/SwiftCharts/SwiftCharts/Sources/Axis/ChartAxisLayerDefault.swift": {
+    "dependencies": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Axis/ChartAxisLayerDefault.d",
+    "object": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Axis/ChartAxisLayerDefault.swift.o",
+    "swiftmodule": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Axis/ChartAxisLayerDefault~partial.swiftmodule",
+    "swift-dependencies": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Axis/ChartAxisLayerDefault.swiftdeps"
+  },
+  "/Users/charlyliu/Development/SwiftCharts/SwiftCharts/Sources/Axis/ChartAxisModel.swift": {
+    "dependencies": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Axis/ChartAxisModel.d",
+    "object": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Axis/ChartAxisModel.swift.o",
+    "swiftmodule": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Axis/ChartAxisModel~partial.swiftmodule",
+    "swift-dependencies": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Axis/ChartAxisModel.swiftdeps"
+  },
+  "/Users/charlyliu/Development/SwiftCharts/SwiftCharts/Sources/Axis/ChartAxisValueStaticGenerator.swift": {
+    "dependencies": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Axis/ChartAxisValueStaticGenerator.d",
+    "object": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Axis/ChartAxisValueStaticGenerator.swift.o",
+    "swiftmodule": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Axis/ChartAxisValueStaticGenerator~partial.swiftmodule",
+    "swift-dependencies": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Axis/ChartAxisValueStaticGenerator.swiftdeps"
+  },
+  "/Users/charlyliu/Development/SwiftCharts/SwiftCharts/Sources/Axis/ChartAxisValuesGenerator.swift": {
+    "dependencies": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Axis/ChartAxisValuesGenerator.d",
+    "object": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Axis/ChartAxisValuesGenerator.swift.o",
+    "swiftmodule": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Axis/ChartAxisValuesGenerator~partial.swiftmodule",
+    "swift-dependencies": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Axis/ChartAxisValuesGenerator.swiftdeps"
+  },
+  "/Users/charlyliu/Development/SwiftCharts/SwiftCharts/Sources/Axis/ChartAxisValuesGeneratorDate.swift": {
+    "dependencies": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Axis/ChartAxisValuesGeneratorDate.d",
+    "object": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Axis/ChartAxisValuesGeneratorDate.swift.o",
+    "swiftmodule": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Axis/ChartAxisValuesGeneratorDate~partial.swiftmodule",
+    "swift-dependencies": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Axis/ChartAxisValuesGeneratorDate.swiftdeps"
+  },
+  "/Users/charlyliu/Development/SwiftCharts/SwiftCharts/Sources/Axis/ChartAxisValuesGeneratorFixed.swift": {
+    "dependencies": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Axis/ChartAxisValuesGeneratorFixed.d",
+    "object": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Axis/ChartAxisValuesGeneratorFixed.swift.o",
+    "swiftmodule": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Axis/ChartAxisValuesGeneratorFixed~partial.swiftmodule",
+    "swift-dependencies": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Axis/ChartAxisValuesGeneratorFixed.swiftdeps"
+  },
+  "/Users/charlyliu/Development/SwiftCharts/SwiftCharts/Sources/Axis/ChartAxisValuesGeneratorFixedNonOverlapping.swift": {
+    "dependencies": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Axis/ChartAxisValuesGeneratorFixedNonOverlapping.d",
+    "object": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Axis/ChartAxisValuesGeneratorFixedNonOverlapping.swift.o",
+    "swiftmodule": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Axis/ChartAxisValuesGeneratorFixedNonOverlapping~partial.swiftmodule",
+    "swift-dependencies": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Axis/ChartAxisValuesGeneratorFixedNonOverlapping.swiftdeps"
+  },
+  "/Users/charlyliu/Development/SwiftCharts/SwiftCharts/Sources/Axis/ChartAxisValuesGeneratorNice.swift": {
+    "dependencies": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Axis/ChartAxisValuesGeneratorNice.d",
+    "object": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Axis/ChartAxisValuesGeneratorNice.swift.o",
+    "swiftmodule": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Axis/ChartAxisValuesGeneratorNice~partial.swiftmodule",
+    "swift-dependencies": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Axis/ChartAxisValuesGeneratorNice.swiftdeps"
+  },
+  "/Users/charlyliu/Development/SwiftCharts/SwiftCharts/Sources/Axis/ChartAxisValuesGeneratorXDividers.swift": {
+    "dependencies": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Axis/ChartAxisValuesGeneratorXDividers.d",
+    "object": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Axis/ChartAxisValuesGeneratorXDividers.swift.o",
+    "swiftmodule": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Axis/ChartAxisValuesGeneratorXDividers~partial.swiftmodule",
+    "swift-dependencies": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Axis/ChartAxisValuesGeneratorXDividers.swiftdeps"
+  },
+  "/Users/charlyliu/Development/SwiftCharts/SwiftCharts/Sources/Axis/ChartAxisValuesGeneratorXFixedNonOverlapping.swift": {
+    "dependencies": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Axis/ChartAxisValuesGeneratorXFixedNonOverlapping.d",
+    "object": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Axis/ChartAxisValuesGeneratorXFixedNonOverlapping.swift.o",
+    "swiftmodule": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Axis/ChartAxisValuesGeneratorXFixedNonOverlapping~partial.swiftmodule",
+    "swift-dependencies": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Axis/ChartAxisValuesGeneratorXFixedNonOverlapping.swiftdeps"
+  },
+  "/Users/charlyliu/Development/SwiftCharts/SwiftCharts/Sources/Axis/ChartAxisValuesGeneratorYFixedNonOverlapping.swift": {
+    "dependencies": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Axis/ChartAxisValuesGeneratorYFixedNonOverlapping.d",
+    "object": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Axis/ChartAxisValuesGeneratorYFixedNonOverlapping.swift.o",
+    "swiftmodule": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Axis/ChartAxisValuesGeneratorYFixedNonOverlapping~partial.swiftmodule",
+    "swift-dependencies": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Axis/ChartAxisValuesGeneratorYFixedNonOverlapping.swiftdeps"
+  },
+  "/Users/charlyliu/Development/SwiftCharts/SwiftCharts/Sources/Axis/ChartAxisX.swift": {
+    "dependencies": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Axis/ChartAxisX.d",
+    "object": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Axis/ChartAxisX.swift.o",
+    "swiftmodule": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Axis/ChartAxisX~partial.swiftmodule",
+    "swift-dependencies": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Axis/ChartAxisX.swiftdeps"
+  },
+  "/Users/charlyliu/Development/SwiftCharts/SwiftCharts/Sources/Axis/ChartAxisXHighLayerDefault.swift": {
+    "dependencies": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Axis/ChartAxisXHighLayerDefault.d",
+    "object": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Axis/ChartAxisXHighLayerDefault.swift.o",
+    "swiftmodule": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Axis/ChartAxisXHighLayerDefault~partial.swiftmodule",
+    "swift-dependencies": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Axis/ChartAxisXHighLayerDefault.swiftdeps"
+  },
+  "/Users/charlyliu/Development/SwiftCharts/SwiftCharts/Sources/Axis/ChartAxisXLayerDefault.swift": {
+    "dependencies": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Axis/ChartAxisXLayerDefault.d",
+    "object": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Axis/ChartAxisXLayerDefault.swift.o",
+    "swiftmodule": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Axis/ChartAxisXLayerDefault~partial.swiftmodule",
+    "swift-dependencies": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Axis/ChartAxisXLayerDefault.swiftdeps"
+  },
+  "/Users/charlyliu/Development/SwiftCharts/SwiftCharts/Sources/Axis/ChartAxisXLowLayerDefault.swift": {
+    "dependencies": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Axis/ChartAxisXLowLayerDefault.d",
+    "object": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Axis/ChartAxisXLowLayerDefault.swift.o",
+    "swiftmodule": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Axis/ChartAxisXLowLayerDefault~partial.swiftmodule",
+    "swift-dependencies": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Axis/ChartAxisXLowLayerDefault.swiftdeps"
+  },
+  "/Users/charlyliu/Development/SwiftCharts/SwiftCharts/Sources/Axis/ChartAxisY.swift": {
+    "dependencies": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Axis/ChartAxisY.d",
+    "object": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Axis/ChartAxisY.swift.o",
+    "swiftmodule": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Axis/ChartAxisY~partial.swiftmodule",
+    "swift-dependencies": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Axis/ChartAxisY.swiftdeps"
+  },
+  "/Users/charlyliu/Development/SwiftCharts/SwiftCharts/Sources/Axis/ChartAxisYHighLayerDefault.swift": {
+    "dependencies": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Axis/ChartAxisYHighLayerDefault.d",
+    "object": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Axis/ChartAxisYHighLayerDefault.swift.o",
+    "swiftmodule": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Axis/ChartAxisYHighLayerDefault~partial.swiftmodule",
+    "swift-dependencies": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Axis/ChartAxisYHighLayerDefault.swiftdeps"
+  },
+  "/Users/charlyliu/Development/SwiftCharts/SwiftCharts/Sources/Axis/ChartAxisYLayerDefault.swift": {
+    "dependencies": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Axis/ChartAxisYLayerDefault.d",
+    "object": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Axis/ChartAxisYLayerDefault.swift.o",
+    "swiftmodule": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Axis/ChartAxisYLayerDefault~partial.swiftmodule",
+    "swift-dependencies": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Axis/ChartAxisYLayerDefault.swiftdeps"
+  },
+  "/Users/charlyliu/Development/SwiftCharts/SwiftCharts/Sources/Axis/ChartAxisYLowLayerDefault.swift": {
+    "dependencies": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Axis/ChartAxisYLowLayerDefault.d",
+    "object": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Axis/ChartAxisYLowLayerDefault.swift.o",
+    "swiftmodule": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Axis/ChartAxisYLowLayerDefault~partial.swiftmodule",
+    "swift-dependencies": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Axis/ChartAxisYLowLayerDefault.swiftdeps"
+  },
+  "/Users/charlyliu/Development/SwiftCharts/SwiftCharts/Sources/AxisValues/ChartAxisValue.swift": {
+    "dependencies": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/AxisValues/ChartAxisValue.d",
+    "object": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/AxisValues/ChartAxisValue.swift.o",
+    "swiftmodule": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/AxisValues/ChartAxisValue~partial.swiftmodule",
+    "swift-dependencies": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/AxisValues/ChartAxisValue.swiftdeps"
+  },
+  "/Users/charlyliu/Development/SwiftCharts/SwiftCharts/Sources/AxisValues/ChartAxisValueDate.swift": {
+    "dependencies": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/AxisValues/ChartAxisValueDate.d",
+    "object": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/AxisValues/ChartAxisValueDate.swift.o",
+    "swiftmodule": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/AxisValues/ChartAxisValueDate~partial.swiftmodule",
+    "swift-dependencies": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/AxisValues/ChartAxisValueDate.swiftdeps"
+  },
+  "/Users/charlyliu/Development/SwiftCharts/SwiftCharts/Sources/AxisValues/ChartAxisValueDouble.swift": {
+    "dependencies": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/AxisValues/ChartAxisValueDouble.d",
+    "object": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/AxisValues/ChartAxisValueDouble.swift.o",
+    "swiftmodule": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/AxisValues/ChartAxisValueDouble~partial.swiftmodule",
+    "swift-dependencies": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/AxisValues/ChartAxisValueDouble.swiftdeps"
+  },
+  "/Users/charlyliu/Development/SwiftCharts/SwiftCharts/Sources/AxisValues/ChartAxisValueDoubleScreenLoc.swift": {
+    "dependencies": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/AxisValues/ChartAxisValueDoubleScreenLoc.d",
+    "object": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/AxisValues/ChartAxisValueDoubleScreenLoc.swift.o",
+    "swiftmodule": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/AxisValues/ChartAxisValueDoubleScreenLoc~partial.swiftmodule",
+    "swift-dependencies": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/AxisValues/ChartAxisValueDoubleScreenLoc.swiftdeps"
+  },
+  "/Users/charlyliu/Development/SwiftCharts/SwiftCharts/Sources/AxisValues/ChartAxisValueFloat.swift": {
+    "dependencies": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/AxisValues/ChartAxisValueFloat.d",
+    "object": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/AxisValues/ChartAxisValueFloat.swift.o",
+    "swiftmodule": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/AxisValues/ChartAxisValueFloat~partial.swiftmodule",
+    "swift-dependencies": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/AxisValues/ChartAxisValueFloat.swiftdeps"
+  },
+  "/Users/charlyliu/Development/SwiftCharts/SwiftCharts/Sources/AxisValues/ChartAxisValueFloatScreenLoc.swift": {
+    "dependencies": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/AxisValues/ChartAxisValueFloatScreenLoc.d",
+    "object": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/AxisValues/ChartAxisValueFloatScreenLoc.swift.o",
+    "swiftmodule": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/AxisValues/ChartAxisValueFloatScreenLoc~partial.swiftmodule",
+    "swift-dependencies": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/AxisValues/ChartAxisValueFloatScreenLoc.swiftdeps"
+  },
+  "/Users/charlyliu/Development/SwiftCharts/SwiftCharts/Sources/AxisValues/ChartAxisValueInt.swift": {
+    "dependencies": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/AxisValues/ChartAxisValueInt.d",
+    "object": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/AxisValues/ChartAxisValueInt.swift.o",
+    "swiftmodule": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/AxisValues/ChartAxisValueInt~partial.swiftmodule",
+    "swift-dependencies": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/AxisValues/ChartAxisValueInt.swiftdeps"
+  },
+  "/Users/charlyliu/Development/SwiftCharts/SwiftCharts/Sources/AxisValues/ChartAxisValueString.swift": {
+    "dependencies": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/AxisValues/ChartAxisValueString.d",
+    "object": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/AxisValues/ChartAxisValueString.swift.o",
+    "swiftmodule": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/AxisValues/ChartAxisValueString~partial.swiftmodule",
+    "swift-dependencies": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/AxisValues/ChartAxisValueString.swiftdeps"
+  },
+  "/Users/charlyliu/Development/SwiftCharts/SwiftCharts/Sources/Chart.swift": {
+    "dependencies": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Chart.d",
+    "object": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Chart.swift.o",
+    "swiftmodule": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Chart~partial.swiftmodule",
+    "swift-dependencies": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Chart.swiftdeps"
+  },
+  "/Users/charlyliu/Development/SwiftCharts/SwiftCharts/Sources/ChartCoordsSpace.swift": {
+    "dependencies": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/ChartCoordsSpace.d",
+    "object": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/ChartCoordsSpace.swift.o",
+    "swiftmodule": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/ChartCoordsSpace~partial.swiftmodule",
+    "swift-dependencies": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/ChartCoordsSpace.swiftdeps"
+  },
+  "/Users/charlyliu/Development/SwiftCharts/SwiftCharts/Sources/ChartLineModel.swift": {
+    "dependencies": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/ChartLineModel.d",
+    "object": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/ChartLineModel.swift.o",
+    "swiftmodule": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/ChartLineModel~partial.swiftmodule",
+    "swift-dependencies": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/ChartLineModel.swiftdeps"
+  },
+  "/Users/charlyliu/Development/SwiftCharts/SwiftCharts/Sources/ChartPoint/ChartPoint.swift": {
+    "dependencies": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/ChartPoint/ChartPoint.d",
+    "object": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/ChartPoint/ChartPoint.swift.o",
+    "swiftmodule": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/ChartPoint/ChartPoint~partial.swiftmodule",
+    "swift-dependencies": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/ChartPoint/ChartPoint.swiftdeps"
+  },
+  "/Users/charlyliu/Development/SwiftCharts/SwiftCharts/Sources/ChartPoint/ChartPointBubble.swift": {
+    "dependencies": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/ChartPoint/ChartPointBubble.d",
+    "object": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/ChartPoint/ChartPointBubble.swift.o",
+    "swiftmodule": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/ChartPoint/ChartPointBubble~partial.swiftmodule",
+    "swift-dependencies": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/ChartPoint/ChartPointBubble.swiftdeps"
+  },
+  "/Users/charlyliu/Development/SwiftCharts/SwiftCharts/Sources/ChartPoint/ChartPointCandleStick.swift": {
+    "dependencies": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/ChartPoint/ChartPointCandleStick.d",
+    "object": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/ChartPoint/ChartPointCandleStick.swift.o",
+    "swiftmodule": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/ChartPoint/ChartPointCandleStick~partial.swiftmodule",
+    "swift-dependencies": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/ChartPoint/ChartPointCandleStick.swiftdeps"
+  },
+  "/Users/charlyliu/Development/SwiftCharts/SwiftCharts/Sources/ChartViewsConflictSolver.swift": {
+    "dependencies": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/ChartViewsConflictSolver.d",
+    "object": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/ChartViewsConflictSolver.swift.o",
+    "swiftmodule": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/ChartViewsConflictSolver~partial.swiftmodule",
+    "swift-dependencies": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/ChartViewsConflictSolver.swiftdeps"
+  },
+  "/Users/charlyliu/Development/SwiftCharts/SwiftCharts/Sources/Convenience/BarsChart.swift": {
+    "dependencies": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Convenience/BarsChart.d",
+    "object": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Convenience/BarsChart.swift.o",
+    "swiftmodule": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Convenience/BarsChart~partial.swiftmodule",
+    "swift-dependencies": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Convenience/BarsChart.swiftdeps"
+  },
+  "/Users/charlyliu/Development/SwiftCharts/SwiftCharts/Sources/Convenience/ChartConfig.swift": {
+    "dependencies": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Convenience/ChartConfig.d",
+    "object": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Convenience/ChartConfig.swift.o",
+    "swiftmodule": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Convenience/ChartConfig~partial.swiftmodule",
+    "swift-dependencies": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Convenience/ChartConfig.swiftdeps"
+  },
+  "/Users/charlyliu/Development/SwiftCharts/SwiftCharts/Sources/Convenience/LineChart.swift": {
+    "dependencies": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Convenience/LineChart.d",
+    "object": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Convenience/LineChart.swift.o",
+    "swiftmodule": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Convenience/LineChart~partial.swiftmodule",
+    "swift-dependencies": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Convenience/LineChart.swiftdeps"
+  },
+  "/Users/charlyliu/Development/SwiftCharts/SwiftCharts/Sources/Drawers/ChartContextDrawer.swift": {
+    "dependencies": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Drawers/ChartContextDrawer.d",
+    "object": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Drawers/ChartContextDrawer.swift.o",
+    "swiftmodule": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Drawers/ChartContextDrawer~partial.swiftmodule",
+    "swift-dependencies": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Drawers/ChartContextDrawer.swiftdeps"
+  },
+  "/Users/charlyliu/Development/SwiftCharts/SwiftCharts/Sources/Drawers/ChartDrawerFunctions.swift": {
+    "dependencies": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Drawers/ChartDrawerFunctions.d",
+    "object": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Drawers/ChartDrawerFunctions.swift.o",
+    "swiftmodule": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Drawers/ChartDrawerFunctions~partial.swiftmodule",
+    "swift-dependencies": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Drawers/ChartDrawerFunctions.swiftdeps"
+  },
+  "/Users/charlyliu/Development/SwiftCharts/SwiftCharts/Sources/Drawers/ChartLabelDrawer.swift": {
+    "dependencies": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Drawers/ChartLabelDrawer.d",
+    "object": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Drawers/ChartLabelDrawer.swift.o",
+    "swiftmodule": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Drawers/ChartLabelDrawer~partial.swiftmodule",
+    "swift-dependencies": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Drawers/ChartLabelDrawer.swiftdeps"
+  },
+  "/Users/charlyliu/Development/SwiftCharts/SwiftCharts/Sources/Drawers/ChartLineDrawer.swift": {
+    "dependencies": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Drawers/ChartLineDrawer.d",
+    "object": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Drawers/ChartLineDrawer.swift.o",
+    "swiftmodule": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Drawers/ChartLineDrawer~partial.swiftmodule",
+    "swift-dependencies": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Drawers/ChartLineDrawer.swiftdeps"
+  },
+  "/Users/charlyliu/Development/SwiftCharts/SwiftCharts/Sources/Extensions/Array_String.swift": {
+    "dependencies": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Extensions/Array_String.d",
+    "object": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Extensions/Array_String.swift.o",
+    "swiftmodule": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Extensions/Array_String~partial.swiftmodule",
+    "swift-dependencies": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Extensions/Array_String.swiftdeps"
+  },
+  "/Users/charlyliu/Development/SwiftCharts/SwiftCharts/Sources/Extensions/CGPoint.swift": {
+    "dependencies": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Extensions/CGPoint.d",
+    "object": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Extensions/CGPoint.swift.o",
+    "swiftmodule": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Extensions/CGPoint~partial.swiftmodule",
+    "swift-dependencies": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Extensions/CGPoint.swiftdeps"
+  },
+  "/Users/charlyliu/Development/SwiftCharts/SwiftCharts/Sources/Extensions/CGRect.swift": {
+    "dependencies": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Extensions/CGRect.d",
+    "object": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Extensions/CGRect.swift.o",
+    "swiftmodule": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Extensions/CGRect~partial.swiftmodule",
+    "swift-dependencies": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Extensions/CGRect.swiftdeps"
+  },
+  "/Users/charlyliu/Development/SwiftCharts/SwiftCharts/Sources/Extensions/ChartAxisValueArray.swift": {
+    "dependencies": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Extensions/ChartAxisValueArray.d",
+    "object": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Extensions/ChartAxisValueArray.swift.o",
+    "swiftmodule": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Extensions/ChartAxisValueArray~partial.swiftmodule",
+    "swift-dependencies": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Extensions/ChartAxisValueArray.swiftdeps"
+  },
+  "/Users/charlyliu/Development/SwiftCharts/SwiftCharts/Sources/Extensions/Globals.swift": {
+    "dependencies": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Extensions/Globals.d",
+    "object": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Extensions/Globals.swift.o",
+    "swiftmodule": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Extensions/Globals~partial.swiftmodule",
+    "swift-dependencies": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Extensions/Globals.swiftdeps"
+  },
+  "/Users/charlyliu/Development/SwiftCharts/SwiftCharts/Sources/Extensions/Int.swift": {
+    "dependencies": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Extensions/Int.d",
+    "object": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Extensions/Int.swift.o",
+    "swiftmodule": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Extensions/Int~partial.swiftmodule",
+    "swift-dependencies": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Extensions/Int.swiftdeps"
+  },
+  "/Users/charlyliu/Development/SwiftCharts/SwiftCharts/Sources/Extensions/NSDate.swift": {
+    "dependencies": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Extensions/NSDate.d",
+    "object": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Extensions/NSDate.swift.o",
+    "swiftmodule": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Extensions/NSDate~partial.swiftmodule",
+    "swift-dependencies": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Extensions/NSDate.swiftdeps"
+  },
+  "/Users/charlyliu/Development/SwiftCharts/SwiftCharts/Sources/Extensions/Optional.swift": {
+    "dependencies": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Extensions/Optional.d",
+    "object": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Extensions/Optional.swift.o",
+    "swiftmodule": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Extensions/Optional~partial.swiftmodule",
+    "swift-dependencies": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Extensions/Optional.swiftdeps"
+  },
+  "/Users/charlyliu/Development/SwiftCharts/SwiftCharts/Sources/Extensions/Pannable.swift": {
+    "dependencies": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Extensions/Pannable.d",
+    "object": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Extensions/Pannable.swift.o",
+    "swiftmodule": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Extensions/Pannable~partial.swiftmodule",
+    "swift-dependencies": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Extensions/Pannable.swiftdeps"
+  },
+  "/Users/charlyliu/Development/SwiftCharts/SwiftCharts/Sources/Extensions/String.swift": {
+    "dependencies": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Extensions/String.d",
+    "object": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Extensions/String.swift.o",
+    "swiftmodule": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Extensions/String~partial.swiftmodule",
+    "swift-dependencies": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Extensions/String.swiftdeps"
+  },
+  "/Users/charlyliu/Development/SwiftCharts/SwiftCharts/Sources/Extensions/UIColor.swift": {
+    "dependencies": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Extensions/UIColor.d",
+    "object": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Extensions/UIColor.swift.o",
+    "swiftmodule": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Extensions/UIColor~partial.swiftmodule",
+    "swift-dependencies": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Extensions/UIColor.swiftdeps"
+  },
+  "/Users/charlyliu/Development/SwiftCharts/SwiftCharts/Sources/Extensions/Zoomable.swift": {
+    "dependencies": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Extensions/Zoomable.d",
+    "object": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Extensions/Zoomable.swift.o",
+    "swiftmodule": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Extensions/Zoomable~partial.swiftmodule",
+    "swift-dependencies": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Extensions/Zoomable.swiftdeps"
+  },
+  "/Users/charlyliu/Development/SwiftCharts/SwiftCharts/Sources/Layers/ChartBarsLayer.swift": {
+    "dependencies": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Layers/ChartBarsLayer.d",
+    "object": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Layers/ChartBarsLayer.swift.o",
+    "swiftmodule": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Layers/ChartBarsLayer~partial.swiftmodule",
+    "swift-dependencies": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Layers/ChartBarsLayer.swiftdeps"
+  },
+  "/Users/charlyliu/Development/SwiftCharts/SwiftCharts/Sources/Layers/ChartCandleStickLayer.swift": {
+    "dependencies": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Layers/ChartCandleStickLayer.d",
+    "object": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Layers/ChartCandleStickLayer.swift.o",
+    "swiftmodule": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Layers/ChartCandleStickLayer~partial.swiftmodule",
+    "swift-dependencies": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Layers/ChartCandleStickLayer.swiftdeps"
+  },
+  "/Users/charlyliu/Development/SwiftCharts/SwiftCharts/Sources/Layers/ChartCoordsSpaceLayer.swift": {
+    "dependencies": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Layers/ChartCoordsSpaceLayer.d",
+    "object": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Layers/ChartCoordsSpaceLayer.swift.o",
+    "swiftmodule": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Layers/ChartCoordsSpaceLayer~partial.swiftmodule",
+    "swift-dependencies": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Layers/ChartCoordsSpaceLayer.swiftdeps"
+  },
+  "/Users/charlyliu/Development/SwiftCharts/SwiftCharts/Sources/Layers/ChartDividersLayer.swift": {
+    "dependencies": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Layers/ChartDividersLayer.d",
+    "object": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Layers/ChartDividersLayer.swift.o",
+    "swiftmodule": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Layers/ChartDividersLayer~partial.swiftmodule",
+    "swift-dependencies": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Layers/ChartDividersLayer.swiftdeps"
+  },
+  "/Users/charlyliu/Development/SwiftCharts/SwiftCharts/Sources/Layers/ChartGroupedBarsLayer.swift": {
+    "dependencies": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Layers/ChartGroupedBarsLayer.d",
+    "object": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Layers/ChartGroupedBarsLayer.swift.o",
+    "swiftmodule": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Layers/ChartGroupedBarsLayer~partial.swiftmodule",
+    "swift-dependencies": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Layers/ChartGroupedBarsLayer.swiftdeps"
+  },
+  "/Users/charlyliu/Development/SwiftCharts/SwiftCharts/Sources/Layers/ChartGuideLinesLayer.swift": {
+    "dependencies": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Layers/ChartGuideLinesLayer.d",
+    "object": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Layers/ChartGuideLinesLayer.swift.o",
+    "swiftmodule": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Layers/ChartGuideLinesLayer~partial.swiftmodule",
+    "swift-dependencies": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Layers/ChartGuideLinesLayer.swiftdeps"
+  },
+  "/Users/charlyliu/Development/SwiftCharts/SwiftCharts/Sources/Layers/ChartLayer.swift": {
+    "dependencies": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Layers/ChartLayer.d",
+    "object": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Layers/ChartLayer.swift.o",
+    "swiftmodule": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Layers/ChartLayer~partial.swiftmodule",
+    "swift-dependencies": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Layers/ChartLayer.swiftdeps"
+  },
+  "/Users/charlyliu/Development/SwiftCharts/SwiftCharts/Sources/Layers/ChartLayerBase.swift": {
+    "dependencies": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Layers/ChartLayerBase.d",
+    "object": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Layers/ChartLayerBase.swift.o",
+    "swiftmodule": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Layers/ChartLayerBase~partial.swiftmodule",
+    "swift-dependencies": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Layers/ChartLayerBase.swiftdeps"
+  },
+  "/Users/charlyliu/Development/SwiftCharts/SwiftCharts/Sources/Layers/ChartPointsAreaLayer.swift": {
+    "dependencies": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Layers/ChartPointsAreaLayer.d",
+    "object": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Layers/ChartPointsAreaLayer.swift.o",
+    "swiftmodule": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Layers/ChartPointsAreaLayer~partial.swiftmodule",
+    "swift-dependencies": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Layers/ChartPointsAreaLayer.swiftdeps"
+  },
+  "/Users/charlyliu/Development/SwiftCharts/SwiftCharts/Sources/Layers/ChartPointsBubbleLayer.swift": {
+    "dependencies": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Layers/ChartPointsBubbleLayer.d",
+    "object": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Layers/ChartPointsBubbleLayer.swift.o",
+    "swiftmodule": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Layers/ChartPointsBubbleLayer~partial.swiftmodule",
+    "swift-dependencies": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Layers/ChartPointsBubbleLayer.swiftdeps"
+  },
+  "/Users/charlyliu/Development/SwiftCharts/SwiftCharts/Sources/Layers/ChartPointsCandleStickViewsLayer.swift": {
+    "dependencies": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Layers/ChartPointsCandleStickViewsLayer.d",
+    "object": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Layers/ChartPointsCandleStickViewsLayer.swift.o",
+    "swiftmodule": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Layers/ChartPointsCandleStickViewsLayer~partial.swiftmodule",
+    "swift-dependencies": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Layers/ChartPointsCandleStickViewsLayer.swiftdeps"
+  },
+  "/Users/charlyliu/Development/SwiftCharts/SwiftCharts/Sources/Layers/ChartPointsLayer.swift": {
+    "dependencies": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Layers/ChartPointsLayer.d",
+    "object": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Layers/ChartPointsLayer.swift.o",
+    "swiftmodule": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Layers/ChartPointsLayer~partial.swiftmodule",
+    "swift-dependencies": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Layers/ChartPointsLayer.swiftdeps"
+  },
+  "/Users/charlyliu/Development/SwiftCharts/SwiftCharts/Sources/Layers/ChartPointsLineLayer.swift": {
+    "dependencies": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Layers/ChartPointsLineLayer.d",
+    "object": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Layers/ChartPointsLineLayer.swift.o",
+    "swiftmodule": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Layers/ChartPointsLineLayer~partial.swiftmodule",
+    "swift-dependencies": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Layers/ChartPointsLineLayer.swiftdeps"
+  },
+  "/Users/charlyliu/Development/SwiftCharts/SwiftCharts/Sources/Layers/ChartPointsLineTrackerLayer.swift": {
+    "dependencies": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Layers/ChartPointsLineTrackerLayer.d",
+    "object": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Layers/ChartPointsLineTrackerLayer.swift.o",
+    "swiftmodule": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Layers/ChartPointsLineTrackerLayer~partial.swiftmodule",
+    "swift-dependencies": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Layers/ChartPointsLineTrackerLayer.swiftdeps"
+  },
+  "/Users/charlyliu/Development/SwiftCharts/SwiftCharts/Sources/Layers/ChartPointsScatterLayer.swift": {
+    "dependencies": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Layers/ChartPointsScatterLayer.d",
+    "object": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Layers/ChartPointsScatterLayer.swift.o",
+    "swiftmodule": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Layers/ChartPointsScatterLayer~partial.swiftmodule",
+    "swift-dependencies": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Layers/ChartPointsScatterLayer.swiftdeps"
+  },
+  "/Users/charlyliu/Development/SwiftCharts/SwiftCharts/Sources/Layers/ChartPointsSingleViewLayer.swift": {
+    "dependencies": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Layers/ChartPointsSingleViewLayer.d",
+    "object": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Layers/ChartPointsSingleViewLayer.swift.o",
+    "swiftmodule": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Layers/ChartPointsSingleViewLayer~partial.swiftmodule",
+    "swift-dependencies": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Layers/ChartPointsSingleViewLayer.swiftdeps"
+  },
+  "/Users/charlyliu/Development/SwiftCharts/SwiftCharts/Sources/Layers/ChartPointsTouchHighlightLayer.swift": {
+    "dependencies": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Layers/ChartPointsTouchHighlightLayer.d",
+    "object": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Layers/ChartPointsTouchHighlightLayer.swift.o",
+    "swiftmodule": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Layers/ChartPointsTouchHighlightLayer~partial.swiftmodule",
+    "swift-dependencies": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Layers/ChartPointsTouchHighlightLayer.swiftdeps"
+  },
+  "/Users/charlyliu/Development/SwiftCharts/SwiftCharts/Sources/Layers/ChartPointsTrackerLayer.swift": {
+    "dependencies": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Layers/ChartPointsTrackerLayer.d",
+    "object": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Layers/ChartPointsTrackerLayer.swift.o",
+    "swiftmodule": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Layers/ChartPointsTrackerLayer~partial.swiftmodule",
+    "swift-dependencies": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Layers/ChartPointsTrackerLayer.swiftdeps"
+  },
+  "/Users/charlyliu/Development/SwiftCharts/SwiftCharts/Sources/Layers/ChartPointsViewsLayer.swift": {
+    "dependencies": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Layers/ChartPointsViewsLayer.d",
+    "object": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Layers/ChartPointsViewsLayer.swift.o",
+    "swiftmodule": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Layers/ChartPointsViewsLayer~partial.swiftmodule",
+    "swift-dependencies": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Layers/ChartPointsViewsLayer.swiftdeps"
+  },
+  "/Users/charlyliu/Development/SwiftCharts/SwiftCharts/Sources/Layers/ChartShowCoordsLinesLayer.swift": {
+    "dependencies": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Layers/ChartShowCoordsLinesLayer.d",
+    "object": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Layers/ChartShowCoordsLinesLayer.swift.o",
+    "swiftmodule": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Layers/ChartShowCoordsLinesLayer~partial.swiftmodule",
+    "swift-dependencies": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Layers/ChartShowCoordsLinesLayer.swiftdeps"
+  },
+  "/Users/charlyliu/Development/SwiftCharts/SwiftCharts/Sources/Layers/ChartStackedBarsLayer.swift": {
+    "dependencies": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Layers/ChartStackedBarsLayer.d",
+    "object": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Layers/ChartStackedBarsLayer.swift.o",
+    "swiftmodule": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Layers/ChartStackedBarsLayer~partial.swiftmodule",
+    "swift-dependencies": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Layers/ChartStackedBarsLayer.swiftdeps"
+  },
+  "/Users/charlyliu/Development/SwiftCharts/SwiftCharts/Sources/Layers/GroupedBarsCompanionsLayer.swift": {
+    "dependencies": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Layers/GroupedBarsCompanionsLayer.d",
+    "object": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Layers/GroupedBarsCompanionsLayer.swift.o",
+    "swiftmodule": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Layers/GroupedBarsCompanionsLayer~partial.swiftmodule",
+    "swift-dependencies": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Layers/GroupedBarsCompanionsLayer.swiftdeps"
+  },
+  "/Users/charlyliu/Development/SwiftCharts/SwiftCharts/Sources/Utils/ChartNiceNumberCalculator.swift": {
+    "dependencies": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Utils/ChartNiceNumberCalculator.d",
+    "object": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Utils/ChartNiceNumberCalculator.swift.o",
+    "swiftmodule": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Utils/ChartNiceNumberCalculator~partial.swiftmodule",
+    "swift-dependencies": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Utils/ChartNiceNumberCalculator.swiftdeps"
+  },
+  "/Users/charlyliu/Development/SwiftCharts/SwiftCharts/Sources/Utils/ChartTextUtils.swift": {
+    "dependencies": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Utils/ChartTextUtils.d",
+    "object": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Utils/ChartTextUtils.swift.o",
+    "swiftmodule": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Utils/ChartTextUtils~partial.swiftmodule",
+    "swift-dependencies": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Utils/ChartTextUtils.swiftdeps"
+  },
+  "/Users/charlyliu/Development/SwiftCharts/SwiftCharts/Sources/Utils/ChartTimeUtils.swift": {
+    "dependencies": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Utils/ChartTimeUtils.d",
+    "object": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Utils/ChartTimeUtils.swift.o",
+    "swiftmodule": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Utils/ChartTimeUtils~partial.swiftmodule",
+    "swift-dependencies": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Utils/ChartTimeUtils.swiftdeps"
+  },
+  "/Users/charlyliu/Development/SwiftCharts/SwiftCharts/Sources/Utils/ChartViewSelector.swift": {
+    "dependencies": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Utils/ChartViewSelector.d",
+    "object": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Utils/ChartViewSelector.swift.o",
+    "swiftmodule": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Utils/ChartViewSelector~partial.swiftmodule",
+    "swift-dependencies": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Utils/ChartViewSelector.swiftdeps"
+  },
+  "/Users/charlyliu/Development/SwiftCharts/SwiftCharts/Sources/Utils/ChartViewSelectorAlpha.swift": {
+    "dependencies": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Utils/ChartViewSelectorAlpha.d",
+    "object": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Utils/ChartViewSelectorAlpha.swift.o",
+    "swiftmodule": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Utils/ChartViewSelectorAlpha~partial.swiftmodule",
+    "swift-dependencies": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Utils/ChartViewSelectorAlpha.swiftdeps"
+  },
+  "/Users/charlyliu/Development/SwiftCharts/SwiftCharts/Sources/Utils/ChartViewSelectorBrightness.swift": {
+    "dependencies": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Utils/ChartViewSelectorBrightness.d",
+    "object": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Utils/ChartViewSelectorBrightness.swift.o",
+    "swiftmodule": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Utils/ChartViewSelectorBrightness~partial.swiftmodule",
+    "swift-dependencies": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Utils/ChartViewSelectorBrightness.swiftdeps"
+  },
+  "/Users/charlyliu/Development/SwiftCharts/SwiftCharts/Sources/Utils/Operators.swift": {
+    "dependencies": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Utils/Operators.d",
+    "object": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Utils/Operators.swift.o",
+    "swiftmodule": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Utils/Operators~partial.swiftmodule",
+    "swift-dependencies": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Utils/Operators.swiftdeps"
+  },
+  "/Users/charlyliu/Development/SwiftCharts/SwiftCharts/Sources/Utils/Trendlines/TrendlineGenerator.swift": {
+    "dependencies": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Utils/Trendlines/TrendlineGenerator.d",
+    "object": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Utils/Trendlines/TrendlineGenerator.swift.o",
+    "swiftmodule": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Utils/Trendlines/TrendlineGenerator~partial.swiftmodule",
+    "swift-dependencies": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Utils/Trendlines/TrendlineGenerator.swiftdeps"
+  },
+  "/Users/charlyliu/Development/SwiftCharts/SwiftCharts/Sources/Views/CatmullPathGenerator.swift": {
+    "dependencies": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Views/CatmullPathGenerator.d",
+    "object": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Views/CatmullPathGenerator.swift.o",
+    "swiftmodule": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Views/CatmullPathGenerator~partial.swiftmodule",
+    "swift-dependencies": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Views/CatmullPathGenerator.swiftdeps"
+  },
+  "/Users/charlyliu/Development/SwiftCharts/SwiftCharts/Sources/Views/ChartAreasView.swift": {
+    "dependencies": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Views/ChartAreasView.d",
+    "object": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Views/ChartAreasView.swift.o",
+    "swiftmodule": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Views/ChartAreasView~partial.swiftmodule",
+    "swift-dependencies": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Views/ChartAreasView.swiftdeps"
+  },
+  "/Users/charlyliu/Development/SwiftCharts/SwiftCharts/Sources/Views/ChartCandleStickView.swift": {
+    "dependencies": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Views/ChartCandleStickView.d",
+    "object": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Views/ChartCandleStickView.swift.o",
+    "swiftmodule": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Views/ChartCandleStickView~partial.swiftmodule",
+    "swift-dependencies": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Views/ChartCandleStickView.swiftdeps"
+  },
+  "/Users/charlyliu/Development/SwiftCharts/SwiftCharts/Sources/Views/ChartLinesView.swift": {
+    "dependencies": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Views/ChartLinesView.d",
+    "object": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Views/ChartLinesView.swift.o",
+    "swiftmodule": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Views/ChartLinesView~partial.swiftmodule",
+    "swift-dependencies": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Views/ChartLinesView.swiftdeps"
+  },
+  "/Users/charlyliu/Development/SwiftCharts/SwiftCharts/Sources/Views/ChartPointEllipseView.swift": {
+    "dependencies": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Views/ChartPointEllipseView.d",
+    "object": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Views/ChartPointEllipseView.swift.o",
+    "swiftmodule": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Views/ChartPointEllipseView~partial.swiftmodule",
+    "swift-dependencies": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Views/ChartPointEllipseView.swiftdeps"
+  },
+  "/Users/charlyliu/Development/SwiftCharts/SwiftCharts/Sources/Views/ChartPointTargetingView.swift": {
+    "dependencies": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Views/ChartPointTargetingView.d",
+    "object": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Views/ChartPointTargetingView.swift.o",
+    "swiftmodule": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Views/ChartPointTargetingView~partial.swiftmodule",
+    "swift-dependencies": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Views/ChartPointTargetingView.swiftdeps"
+  },
+  "/Users/charlyliu/Development/SwiftCharts/SwiftCharts/Sources/Views/ChartPointTextCircleView.swift": {
+    "dependencies": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Views/ChartPointTextCircleView.d",
+    "object": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Views/ChartPointTextCircleView.swift.o",
+    "swiftmodule": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Views/ChartPointTextCircleView~partial.swiftmodule",
+    "swift-dependencies": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Views/ChartPointTextCircleView.swiftdeps"
+  },
+  "/Users/charlyliu/Development/SwiftCharts/SwiftCharts/Sources/Views/ChartPointViewBar.swift": {
+    "dependencies": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Views/ChartPointViewBar.d",
+    "object": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Views/ChartPointViewBar.swift.o",
+    "swiftmodule": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Views/ChartPointViewBar~partial.swiftmodule",
+    "swift-dependencies": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Views/ChartPointViewBar.swiftdeps"
+  },
+  "/Users/charlyliu/Development/SwiftCharts/SwiftCharts/Sources/Views/ChartPointViewBarGreyOut.swift": {
+    "dependencies": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Views/ChartPointViewBarGreyOut.d",
+    "object": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Views/ChartPointViewBarGreyOut.swift.o",
+    "swiftmodule": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Views/ChartPointViewBarGreyOut~partial.swiftmodule",
+    "swift-dependencies": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Views/ChartPointViewBarGreyOut.swiftdeps"
+  },
+  "/Users/charlyliu/Development/SwiftCharts/SwiftCharts/Sources/Views/ChartPointViewBarStacked.swift": {
+    "dependencies": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Views/ChartPointViewBarStacked.d",
+    "object": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Views/ChartPointViewBarStacked.swift.o",
+    "swiftmodule": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Views/ChartPointViewBarStacked~partial.swiftmodule",
+    "swift-dependencies": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Views/ChartPointViewBarStacked.swiftdeps"
+  },
+  "/Users/charlyliu/Development/SwiftCharts/SwiftCharts/Sources/Views/ChartViewAlphaAnimator.swift": {
+    "dependencies": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Views/ChartViewAlphaAnimator.d",
+    "object": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Views/ChartViewAlphaAnimator.swift.o",
+    "swiftmodule": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Views/ChartViewAlphaAnimator~partial.swiftmodule",
+    "swift-dependencies": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Views/ChartViewAlphaAnimator.swiftdeps"
+  },
+  "/Users/charlyliu/Development/SwiftCharts/SwiftCharts/Sources/Views/ChartViewAnimator.swift": {
+    "dependencies": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Views/ChartViewAnimator.d",
+    "object": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Views/ChartViewAnimator.swift.o",
+    "swiftmodule": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Views/ChartViewAnimator~partial.swiftmodule",
+    "swift-dependencies": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Views/ChartViewAnimator.swiftdeps"
+  },
+  "/Users/charlyliu/Development/SwiftCharts/SwiftCharts/Sources/Views/ChartViewAnimators.swift": {
+    "dependencies": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Views/ChartViewAnimators.d",
+    "object": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Views/ChartViewAnimators.swift.o",
+    "swiftmodule": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Views/ChartViewAnimators~partial.swiftmodule",
+    "swift-dependencies": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Views/ChartViewAnimators.swiftdeps"
+  },
+  "/Users/charlyliu/Development/SwiftCharts/SwiftCharts/Sources/Views/ChartViewGrowAnimator.swift": {
+    "dependencies": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Views/ChartViewGrowAnimator.d",
+    "object": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Views/ChartViewGrowAnimator.swift.o",
+    "swiftmodule": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Views/ChartViewGrowAnimator~partial.swiftmodule",
+    "swift-dependencies": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Views/ChartViewGrowAnimator.swiftdeps"
+  },
+  "/Users/charlyliu/Development/SwiftCharts/SwiftCharts/Sources/Views/CubicLinePathGenerator.swift": {
+    "dependencies": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Views/CubicLinePathGenerator.d",
+    "object": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Views/CubicLinePathGenerator.swift.o",
+    "swiftmodule": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Views/CubicLinePathGenerator~partial.swiftmodule",
+    "swift-dependencies": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Views/CubicLinePathGenerator.swiftdeps"
+  },
+  "/Users/charlyliu/Development/SwiftCharts/SwiftCharts/Sources/Views/HandlingLabel.swift": {
+    "dependencies": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Views/HandlingLabel.d",
+    "object": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Views/HandlingLabel.swift.o",
+    "swiftmodule": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Views/HandlingLabel~partial.swiftmodule",
+    "swift-dependencies": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Views/HandlingLabel.swiftdeps"
+  },
+  "/Users/charlyliu/Development/SwiftCharts/SwiftCharts/Sources/Views/HandlingView.swift": {
+    "dependencies": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Views/HandlingView.d",
+    "object": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Views/HandlingView.swift.o",
+    "swiftmodule": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Views/HandlingView~partial.swiftmodule",
+    "swift-dependencies": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Views/HandlingView.swiftdeps"
+  },
+  "/Users/charlyliu/Development/SwiftCharts/SwiftCharts/Sources/Views/InfoBubble.swift": {
+    "dependencies": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Views/InfoBubble.d",
+    "object": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Views/InfoBubble.swift.o",
+    "swiftmodule": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Views/InfoBubble~partial.swiftmodule",
+    "swift-dependencies": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Views/InfoBubble.swiftdeps"
+  },
+  "/Users/charlyliu/Development/SwiftCharts/SwiftCharts/Sources/Views/StraightLinePathGenerator.swift": {
+    "dependencies": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Views/StraightLinePathGenerator.d",
+    "object": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Views/StraightLinePathGenerator.swift.o",
+    "swiftmodule": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Views/StraightLinePathGenerator~partial.swiftmodule",
+    "swift-dependencies": "/Users/charlyliu/Development/SwiftCharts/.build/x86_64-apple-macosx/debug/SwiftCharts.build/Sources/Views/StraightLinePathGenerator.swiftdeps"
+  }
+}
