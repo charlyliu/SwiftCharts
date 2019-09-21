@@ -619,19 +619,7 @@
 		06405DA81B8AA74700A689FF /* SwiftCharts */ = {
 			isa = PBXGroup;
 			children = (
-				06405DD51B8AA81D00A689FF /* Chart.swift */,
-				06405DD61B8AA81D00A689FF /* ChartCoordsSpace.swift */,
-				06405DD71B8AA81D00A689FF /* ChartLineModel.swift */,
-				06405DDD1B8AA81D00A689FF /* ChartViewsConflictSolver.swift */,
-				06405DC21B8AA81D00A689FF /* Axis */,
-				06405DCE1B8AA81D00A689FF /* AxisValues */,
-				06405DD81B8AA81D00A689FF /* ChartPoint */,
-				06405DDE1B8AA81D00A689FF /* Convenience */,
-				06405DE21B8AA81D00A689FF /* Drawers */,
-				06405DE71B8AA81D00A689FF /* Layers */,
-				EB18B5911D2ECED500491A7F /* Extensions */,
-				06405DFC1B8AA81D00A689FF /* Utils */,
-				06405DFF1B8AA81D00A689FF /* Views */,
+				7C5A5D812336707B0036B623 /* Source */,
 				06405DA91B8AA74700A689FF /* Supporting Files */,
 			);
 			path = SwiftCharts;
@@ -788,6 +776,26 @@
 			path = Views;
 			sourceTree = "<group>";
 		};
+		7C5A5D812336707B0036B623 /* Source */ = {
+			isa = PBXGroup;
+			children = (
+				06405DD51B8AA81D00A689FF /* Chart.swift */,
+				06405DD61B8AA81D00A689FF /* ChartCoordsSpace.swift */,
+				06405DD71B8AA81D00A689FF /* ChartLineModel.swift */,
+				06405DDD1B8AA81D00A689FF /* ChartViewsConflictSolver.swift */,
+				06405DC21B8AA81D00A689FF /* Axis */,
+				06405DCE1B8AA81D00A689FF /* AxisValues */,
+				06405DD81B8AA81D00A689FF /* ChartPoint */,
+				06405DDE1B8AA81D00A689FF /* Convenience */,
+				06405DE21B8AA81D00A689FF /* Drawers */,
+				06405DE71B8AA81D00A689FF /* Layers */,
+				EB18B5911D2ECED500491A7F /* Extensions */,
+				06405DFC1B8AA81D00A689FF /* Utils */,
+				06405DFF1B8AA81D00A689FF /* Views */,
+			);
+			path = Source;
+			sourceTree = "<group>";
+		};
 		EB093E5D1D213EFF001157BD /* Generator */ = {
 			isa = PBXGroup;
 			children = (
@@ -853,6 +861,7 @@
 				EBA012D81D5F76210064175C /* Array */,
 			);
 			name = Extensions;
+			path = ..;
 			sourceTree = "<group>";
 		};
 		EB38397E1D6F31E500449211 /* ViewSelector */ = {
