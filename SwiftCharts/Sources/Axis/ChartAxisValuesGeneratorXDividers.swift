@@ -6,7 +6,7 @@
 //  Copyright © 2016 ivanschuetz. All rights reserved.
 //
 
-import Foundation
+import UIKit
 
 open class ChartAxisValuesGeneratorXDividers: ChartAxisGeneratorMultiplier {
     

@@ -6,7 +6,7 @@
 //  Copyright © 2016 ivanschuetz. All rights reserved.
 //
 
-import Foundation
+import UIKit
 
 /// Needed for common stored properties which are not possible in the extension (without workarounds)
 open class ChartAxisLabelsGeneratorBase: ChartAxisLabelsGenerator {

@@ -6,7 +6,7 @@
 //  Copyright © 2016 ivanschuetz. All rights reserved.
 //
 
-import Foundation
+import UIKit
 
 /// Label generator that delegates to a closure, for greater flexibility
 open class ChartAxisLabelsGeneratorFunc: ChartAxisLabelsGeneratorBase {

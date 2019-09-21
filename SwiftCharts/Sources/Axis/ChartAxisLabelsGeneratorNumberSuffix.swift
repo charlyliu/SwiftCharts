@@ -6,7 +6,7 @@
 //  Copyright © 2016 ivanschuetz. All rights reserved.
 //
 
-import Foundation
+import UIKit
 
 public enum ChartAxisLabelNumberSuffixUnit {
     case k, m, g, t, p, e

@@ -6,7 +6,7 @@
 //  Copyright © 2016 ivanschuetz. All rights reserved.
 //
 
-import Foundation
+import UIKit
 
 /// Generates a single formatted number for scalar
 open class ChartAxisLabelsGeneratorNumber: ChartAxisLabelsGeneratorBase {
